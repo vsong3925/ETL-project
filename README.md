@@ -33,4 +33,4 @@ Produce an entity relationship diagram (ERD) from MySQL workbench to illustrate 
 Develop an ETL process in Python that loads each of the tables in Salesforce from your MySQL database on AWS.
 
 ![Courses](Images/Courses.png)
-![Class Content](Images/ClassContent.png)
+![Class Content](Images/ClassesContent.png)
