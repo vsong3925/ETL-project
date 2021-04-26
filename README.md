@@ -24,9 +24,13 @@ Include the following tables:
 * Staff
 * Staff Assignment
 
+![Data Structure](Images/GWSISERD.png)
+
 Produce an entity relationship diagram (ERD) from MySQL workbench to illustrate the database structure.
 
 ## Step 4 - Data Movement (ETL)
 
 Develop an ETL process in Python that loads each of the tables in Salesforce from your MySQL database on AWS.
 
+![Courses](Images/Courses.png)
+![Class Content](Images/ClassContent.png)
